@@ -1,0 +1,20 @@
+{
+  "election_date": "2025-07-20",
+  "house": "House_of_Councillors",
+  "total_seats": 248,
+  "seats_by_party": {
+    "Liberal_Democratic_Party": 101,
+    "Komeito": 21,
+    "Constitutional_Democratic_Party": 38,
+    "Democratic_Party_For_the_People": 22,
+    "Japan_Innovation_Party": 19,
+    "Party_of_Do_It_Yourself": 15,
+    "Japanese_Communist_Party": 7,
+    "Reiwa_Shinsengumi": 6,
+    "Social_Democratic_Party": 2,
+    "Conservative_Party_of_Japan":2,
+    "NHK_Party": 1,
+    "Team_Mirai": 1,
+    "Independents": 13
+  }
+}
